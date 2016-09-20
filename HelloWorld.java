@@ -1,7 +1,7 @@
 public class HelloWorld
 {
 	public HelloWorld(){
-		// Just an empty constructor for no reason
+		// Just an empty constructor for no obvious reason
 	}
 	
 	public static void main(String[] args){
