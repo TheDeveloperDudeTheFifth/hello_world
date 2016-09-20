@@ -7,6 +7,7 @@ public class HelloWorld {
 
 	public HelloWorld() {
 		// Just an empty constructor for no obvious reason
+		//comment for develop
 	}
 
 	public void printMessage(String message) {
